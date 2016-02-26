@@ -7,7 +7,8 @@ keywords: Markdown, Markdown快速入门, Markdown入门参考
 description: Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
 _notoc: true
 #_highlight: true
-#_comment: true
+#_comment: false
+---
 ---
 
 对照[本文源代码](https://raw.githubusercontent.com/sheyi/a/gh-pages/md/2014-08-21-markdown-simple-example.md)查看
